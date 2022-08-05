@@ -16,12 +16,16 @@ Backend Spring boot.
 
 ## Tech
 
-- Springboot - backend with java
+- Springboot - java
 - MySql - DB
+- React - Dom
 
 ## Document - POSTMAN
 https://documenter.getpostman.com/view/21096223/UzXKWyd8
 
 ## Heroku - Link
 https://todo-kma-app.herokuapp.com
+
+## Netlify - Link
+todo-kma.netlify.app
 
