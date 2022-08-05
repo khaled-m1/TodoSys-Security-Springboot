@@ -27,5 +27,5 @@ https://documenter.getpostman.com/view/21096223/UzXKWyd8
 https://todo-kma-app.herokuapp.com
 
 ## Netlify - Link
-todo-kma.netlify.app
+https://todo-kma.netlify.app/login
 
